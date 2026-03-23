@@ -12,6 +12,11 @@ Je suis un développeur Etudiant débutant.
 * **Langages :** JS, Python, HTML/CSS
 * **Outils :** Git, VSCode...
 
+## Statistiques GitHub
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=Ethan-lrz&show_icons=true&theme=radical)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-lrz&layout=compact&theme=radical)
+
 ## 📫 Me contacter
 
 * **Email :** lorenzi.ethan@gmail.com
