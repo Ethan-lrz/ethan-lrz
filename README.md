@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bonjour, je suis Ethan !
 
-<!--
-**Ethan-lrz/ethan-lrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur Etudiant débutant.
 
-Here are some ideas to get you started:
+## 🚀 Ce que je fais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Je travaille actuellement sur : **un mini jeu-vidéo**
+* J'apprends : **le développement en groupe**
+
+## 🛠️ Mes technologies
+
+* **Langages :** JS, Python, HTML/CSS
+* **Outils :** Git, VSCode...
+
+## 📫 Me contacter
+
+* **Email :** lorenzi.ethan@gmail.com
+* **LinkedIn :** https://www.linkedin.com/in/ethan-lorenzi/
